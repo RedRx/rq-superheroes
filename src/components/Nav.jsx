@@ -15,6 +15,21 @@ const Nav = ({ children }) => {
           <li>
             <Link to="/rq-super-heroes">RQ SuperHeroes</Link>
           </li>
+          <li>
+            <Link to="/parallel-queries">Parallel Queries</Link>
+          </li>
+          <li>
+            <Link to="/dynamic-parallel">Dynamic Parallel</Link>
+          </li>
+          <li>
+            <Link to="/dependent-queries">Dependent Queries</Link>
+          </li>
+          <li>
+            <Link to="/paginated-queries">Paginated Queries</Link>
+          </li>
+          <li>
+            <Link to="/infinite-queries">Infinite Queries</Link>
+          </li>
         </ul>
       </nav>
       {children}

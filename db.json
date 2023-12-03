@@ -14,6 +14,95 @@
       "id": 3,
       "name": "Wonder Woman 1",
       "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "Captain America",
+      "alterEgo": "Chris Evans",
+      "id": 4
+    },
+    {
+      "name": "Spiderman",
+      "alterEgo": "Peter Parker",
+      "id": 5
+    },
+    {
+      "name": "test",
+      "alterEgo": "sss",
+      "id": 6
+    },
+    {
+      "name": "Teerapat",
+      "alterEgo": "Wassavanich",
+      "id": 7
+    },
+    {
+      "name": "testa2",
+      "alterEgo": "123123",
+      "id": 8
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Robert Downey Jr."
+    },
+    {
+      "id": 2,
+      "name": "Chris Evans"
+    },
+    {
+      "id": 3,
+      "name": "Chris Hemsworth"
+    }
+  ],
+  "users": [
+    {
+      "id": "toy@toylab.com",
+      "channelId": "toylab"
+    }
+  ],
+  "channels": [
+    {
+      "id": "toylab",
+      "courses": [
+        "Javascript",
+        "Typescript",
+        "Docker"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
     }
   ]
 }
